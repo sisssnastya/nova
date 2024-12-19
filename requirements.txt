@@ -1,0 +1,6 @@
+sqlite3
+tk
+pandas
+reportlab
+matplotlib
+openpyxl
